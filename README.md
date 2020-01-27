@@ -1,10 +1,10 @@
-# Blockair Instructions
+# H1 Blockair Instructions
 A blockchain application built as a dapp with laravel infrastructure on the backend that uses flight bookings api data to create journey data that is placed on the blockchain. <br />
 
-# Install Instructions <br />
+# H1 Install Instructions <br />
 (Note this project has a Laravel Backend and a Vue JS SPA Front End)
 
-# 1 At the command line use gitclone to clone to a directory of your choosing. <br />
+...1 At the command line use gitclone to clone to a directory of your choosing. <br />
 # 2 If you are using Laravel Valet browse to the blockair directory and use valet link to link the directory. <br />
 # 3 At the command prompt type mysql -u root and create a new database by following the instructions below: <br />
 # 4 Type CREATE DATABASE blockair; <br />
